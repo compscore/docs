@@ -1,17 +1,20 @@
 # Welcome to Compscore
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+![](https://github.com/compscore/compscore/actions/workflows/go.yaml/badge.svg)
+![](https://github.com/compscore/compscore/actions/workflows/ts.yaml/badge.svg)
 
-## Commands
+Compscore is a full-stack scoring engine built for simplicity and rigidity!
 
-- `mkdocs new [dir-name]` - Create a new project.
-- `mkdocs serve` - Start the live-reloading docs server.
-- `mkdocs build` - Build the documentation site.
-- `mkdocs -h` - Print help message and exit.
+## Quick Start
 
-## Project layout
+!!!TODO
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Documentation Overview
+
+This documentation covers the many part of Compscore. Below you will find brief descriptions of those subsections:
+
+### Configuration
+
+### Deploy
+
+### Engine
