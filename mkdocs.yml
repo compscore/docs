@@ -1,7 +1,8 @@
-site_name: Compscore
+site_name: Compscore Docs
 theme:
   name: material
   language: en
+  favicon: assets/images/favicon.ico
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
@@ -16,7 +17,6 @@ theme:
   features:
     - navigation.instant
     - navigation.tracking
-    - navigation.tabs
     - navigation.top
     - search.suggest
     - content.code.copy
