@@ -12,6 +12,12 @@ Compscore includes it own standard library of scorechecks; they include the foll
 - [Web](https://github.com/compscore/web)
 - [WinRM](https://github.com/compscore/winrm)
 
+!!! info
+
+    Scorechecks will all include a `README.md` file which will explain how to configure and use that given check.
+
+    Please refer to that documentation when using these checks
+
 ## Custom Checks
 
 Don't see a check you need? Build it from Compscore's [Check Template](https://github.com/compscore/check-template)  
