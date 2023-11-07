@@ -1,4 +1,4 @@
-# Create a Custom
+# Create a Custom Check
 
 !!! info
 
