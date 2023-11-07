@@ -1,4 +1,8 @@
-# Create a Custom Check
+# Create a Custom
+
+!!! info
+
+    You can use any standard library check as reference for how to build new scorechecks
 
 1. Create a new check repo based on [compscore/check-template](https://github.com/compscore/check-template)  
    ![](../assets/images/check-template-create.png)
