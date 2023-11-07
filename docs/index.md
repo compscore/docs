@@ -15,6 +15,12 @@ This documentation covers the many part of Compscore. Below you will find brief 
 
 ### Configuration
 
+!!!TODO
+
 ### Deploy
 
+!!!TODO
+
 ### Engine
+
+!!!TODO
